@@ -1,0 +1,20 @@
+# Task
+Task:
+  task_name : 'RNN_task'
+  task_mode : ["eval","test"] # "train",
+
+# 模型参数
+LSTM:
+  embedding_dim : 100     # 嵌入层的维度
+  hidden_units : 20      # LSTM层隐藏单元数
+  dropout_rate : 0.5      # Dropout层的丢弃率
+  num_layers : 10        # LSTM层数
+  num_classes : 2         # 类别数
+  char_based : False      # 是否使用字符级别的模型
+
+CNN:
+
+Transformer:
+
+GRU:
+  

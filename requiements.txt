@@ -1,0 +1,12 @@
+nltk
+boto3
+setuptools_rust
+filelock
+tokenizers
+dpu_utils
+h5py
+transformers
+ujson
+dgl
+gdown
+jsbeautifier

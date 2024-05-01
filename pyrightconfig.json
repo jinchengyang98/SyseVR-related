@@ -1,0 +1,8 @@
+{
+      "exclude": [
+            "data/",
+            "ReSySeVR-main/data/"
+      ]
+}
+
+//// 这个文件的作用是告诉git哪些文件不需要添加到版本管理中
